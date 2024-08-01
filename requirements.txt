@@ -1,6 +1,21 @@
-numpy==1.26.3
-scikit-learn==1.3.2
-pickle
-streamlit==1.29.0
-streamlit-option-menu==0.3.6
-torch==2.3.1+cpu
+# Core Python libraries
+pandas
+numpy
+matplotlib
+Pillow
+
+# Streamlit and extensions
+streamlit
+streamlit-option-menu
+
+# Machine Learning and NLP libraries
+scikit-learn
+nltk
+
+# Deep Learning
+torch
+torchvision
+
+# File handling
+pickle-mixin
+
