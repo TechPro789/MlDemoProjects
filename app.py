@@ -4,6 +4,7 @@ import re
 import pandas as pd
 from PIL import Image
 import numpy as np
+import matplotlib.pyplot as plt
 import streamlit as st
 from streamlit_option_menu import option_menu
 # from nltk.corpus import stopwords
