@@ -189,7 +189,7 @@ if selected == "Home":
     # Contact section
     st.markdown('<p class="medium-font">Get in Touch</p>', unsafe_allow_html=True)
     st.write("Email: zeeshan.shaikh.shahid@gmail.com")
-    st.write("LinkedIn: [Zeeshan Shaikh](https://www.linkedin.com/in/johndoe)")
+    st.write("LinkedIn: [Zeeshan Shaikh](https://www.linkedin.com/in/zeeshan-shaikh-9b1856264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)")
     st.write("Tableau Public: [ZeeshanShaikh_TBL](https://public.tableau.com/app/profile/zeeshan.shaikh3147/vizzes)")
     st.write("Contact/WatsApp: (+852 5421 1979)")
     
