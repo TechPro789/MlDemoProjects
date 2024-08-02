@@ -94,7 +94,7 @@ with st.sidebar:
     selected = option_menu('Zeeshan Shaikh',
 
                            ['Home',
-                            'Laon Prediction System',
+                            'Loan Prediction System',
                             'Fake News Classifier','Object Detection','Sentiment Analysis','Diabetes Prediction'],
                            menu_icon='hospital-fill',
                            icons=[],
@@ -288,7 +288,7 @@ if selected == "Fake News Classifier":
          
     
 
-if selected == "Laon Prediction System":
+if selected == "Loan Prediction System":
      st.title("Bank Loan Prediction using Machine Learning")
 
     ## Account No
