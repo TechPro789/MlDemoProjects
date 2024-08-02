@@ -143,7 +143,7 @@ if selected == "Home":
 
     # Project 1
     with st.container():
-        st.subheader("1. Laon Prediction System.")
+        st.subheader("1. Loan Prediction System.")
         st.write("""
         Developed a machine learning model using a dataset from Kaggle to predict loan eligibility 
         with Support Vector Machines (SVM), automating and improving the loan approval process by
